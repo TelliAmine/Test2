@@ -1,0 +1,80 @@
+*{padding: 0;margin: 0;}
+.cover {
+    
+    height: 450px;
+   width: 100%;
+   padding: 50px;
+
+background-position: center;
+    background-image: url("../res/telli2.jpg");
+    
+       ;
+  
+
+    
+}
+
+.cover .heading {
+    font-size: 5em;
+   
+    color: black ;
+    position: relative;
+    
+   
+    ;
+}
+
+
+/* General styling */
+.heading {
+    color: rgb(34, 50, 95);
+    font-size: 4em;
+    font-family:'Times New Roman', Times, serif; ;
+    margin: 30px 0 40px 30px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.square {
+    padding: 45px;
+    width: 49%;
+    display: inline-block;
+    
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+   
+}
+
+/* Articles styling */
+.benefict-title {
+    font-size: 2em;
+    font-family: 'Bree Serif', serif;
+    margin: 0 0 20px 0;
+}
+
+.benefict-body {
+   
+    font-size: 1em;
+    font-family: 'Ropa Sans', sans-serif;
+    text-align: justify;
+}
+
+
+
+
+
+
+/* Color presets */
+.square      { background-color: #6495ED ; 
+} 
+.square:hover{
+    border: 5px black solid;
+}
+
+
+
+
